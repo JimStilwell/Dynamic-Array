@@ -37,8 +37,8 @@
 	The array grows by 1 place for each new plant created every week
 	Each element of the array stores the number of weeks each plant has existed (fruit yield)
 
-	Challenge:
-	Dynamically resize the array each week to hold the number of plants currently growing.
+	Tags:
+	Dynamically arrays
 
 	URL: https://www.reddit.com/r/dailyprogrammer/comments/3twuwf/20151123_challenge_242_easy_funny_plant/
 
